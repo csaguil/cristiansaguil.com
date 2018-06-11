@@ -418,7 +418,8 @@ image-orientation: from-image;
 }
 
 .gava_img {
-  background-image: "gava.png";
+  background-image: url(../gava.png);
+  opacity: .4;
 }
 
 /* Larger than mobile */
